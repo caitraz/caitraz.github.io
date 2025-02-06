@@ -1,4 +1,13 @@
 ---
 title: "Projects"
 author: "Caitlin Rasbid"
+doc: ESS_312_Class-Wide_Research_Project_Report.pdf
 ---
+
+# Class-Wide Qualitative Research Project
+
+I was a member of a small team of students that wrote up a report of a larger class-wide research project in my Sustainability Science class in the Spring of 2024.
+
+The report is linked below.
+
+![](ESS_312_Class-Wide_Research_Project_Report.pdf){width="1000" height="1000"}
