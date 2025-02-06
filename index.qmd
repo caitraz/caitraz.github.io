@@ -1,7 +1,21 @@
 ---
-title: "caitraz.github.io"
+title: "Caitlin's Website"
+image: caitlin.JPG
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 10em
+  links: 
+    - text: linkedIn
+      href: //https://www.linkedin.com/in/caitlinrasbid/
+    - text: Email
+      href: //caitraz@colostate.edu 
+ 
 ---
 
+# Ecosystem Science and Sustainability & Environmental Sociology
+## Colorado State University Class of 2026
+ 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
