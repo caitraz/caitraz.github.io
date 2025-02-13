@@ -6,15 +6,11 @@ about:
   image-width: 10em
   links: 
     - text: linkedIn
-      href: //https://www.linkedin.com/in/caitlinrasbid/
+      href: https://www.linkedin.com/in/caitlinrasbid/
     - text: Email
-      href: //caitraz@colostate.edu 
+      href: mailto:caitraz@colostate.edu 
 ---
 
 # Ecosystem Science and Sustainability & Environmental Sociology
 
 ## Colorado State University Class of 2026
-
-```{r}
-1 + 1
-```
