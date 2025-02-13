@@ -15,8 +15,6 @@ about:
 
 ## Colorado State University Class of 2026
 
-![](images/caitlin.jpg){width="500" height="600"}
-
 ```{r}
 1 + 1
 ```

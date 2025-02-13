@@ -6,8 +6,16 @@ doc: ESS_312_Class-Wide_Research_Project_Report.pdf
 
 # Class-Wide Qualitative Research Project
 
-I was a member of a small team of students that wrote up a report of a larger class-wide research project in my Sustainability Science class in the Spring of 2024.
+I was a member of a small team of students that wrote up a report of a larger class-wide research project in my Sustainability Science class in the Spring of 2024. The topic we focused on was how access to outdoor recreational spaces impacts personal wellbeing. This process allowed me to:
+
+-   Deepen my skills in qualitative research and analysis
+
+    -   Including formulating and administering interviews and interpreting responses into a cohesive analysis
+
+-   Strengthen my ability to write analytically about social science research
+
+-   Familiarize myself with the International Review Board process and requirements
 
 The report is linked below.
 
-![](ESS_312_Class-Wide_Research_Project_Report.pdf){width="1000" height="1000"}
+![](ESS_312_Class-Wide_Research_Project_Report.pdf){width="1000" height="2000"}
